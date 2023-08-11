@@ -1,0 +1,23 @@
+/* src/components/StudyResources.css */
+.study-resources-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .study-resource-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .study-resource-card h2 {
+    margin: 0;
+  }
+  
+  .study-resource-card p {
+    margin: 10px 0;
+  }
+  
